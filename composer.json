@@ -1,0 +1,17 @@
+{
+    "name": "proyekt/cozastore",
+    "description": "Test ucun nezerde tutulub",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ruslanvincent",
+            "email": "ruslaneliyev747@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+
+}
